@@ -1,5 +1,5 @@
 langchain==0.0.247
-Pillow==10.0.0
+Pillow==9.5.0
 Requests==2.31.0
 streamlit==1.24.0
 torch==2.0.1
